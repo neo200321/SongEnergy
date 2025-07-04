@@ -1,7 +1,4 @@
 # SongEnergy
-
-### 中文版本 (README_zh.md)
-
 ```markdown
 # AutoMoodTagger - 音乐情绪自动分类工具
 
