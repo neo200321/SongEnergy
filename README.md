@@ -5,7 +5,7 @@
 [](https://python.org)
 [](https://opensource.org/licenses/Apache-2.0)
 
-AutoMoodTagger 是一款智能音频分析工具，能够根据音乐声学特征自动分类歌曲情绪，并将分类结果直接写入歌曲元数据标签。解决本地音乐无法自动分类的问题，让您轻松创建符合特定场景的情绪化歌单！
+AutoMoodTagger 是一款智能音频分析工具，能够根据音乐声学特征自动分类歌曲情绪，并将分类结果直接写入歌曲元数据标签。解决本地音乐无法自动分类的问题，让您轻松创建符合特定场景的情绪化歌单！只支持mp3、FLAC格式，因为这两种格式对流派标签的兼容性最强，也涵盖了常见高品质音乐格式。
 
 ## ✨ 核心功能
 
@@ -49,7 +49,7 @@ FFmpeg (用于MP3文件解码，建议配置到系统路径)
 [](https://python.org)
 [](https://opensource.org/licenses/Apache-2.0)
 
-AutoMoodTagger is an intelligent audio analysis tool that automatically classifies music files based on their acoustic properties and writes mood labels directly to the file's metadata. Perfect for creating mood-based playlists for different scenarios!
+AutoMoodTagger is an intelligent audio analysis tool that automatically classifies music files based on their acoustic properties and writes mood labels directly to the file's metadata. Perfect for creating mood-based playlists for different scenarios! Only MP3 and FLAC formats are supported, as these two formats have the strongest compatibility with genre tags and also cover common high-quality music formats.
 
 ## ✨ Key Features
 
